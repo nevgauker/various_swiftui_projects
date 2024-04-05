@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "codescanner",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/twostraws/CodeScanner",
+      "state" : {
+        "revision" : "bf5d7087015620b250ee6c865b3c9039fc159d1a",
+        "version" : "2.3.3"
+      }
+    },
+    {
+      "identity" : "imagepickerwrapper",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nevgauker/imagePickerWrapper",
+      "state" : {
+        "branch" : "main",
+        "revision" : "efcfd6f486e09ff4071947985ec184c07e001da8"
+      }
+    }
+  ],
+  "version" : 2
+}

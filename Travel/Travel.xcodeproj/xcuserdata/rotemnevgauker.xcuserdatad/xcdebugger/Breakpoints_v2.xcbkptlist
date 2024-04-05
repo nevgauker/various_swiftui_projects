@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6410F736-1F64-4729-A2AD-A41FC5B473E3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15422703-04AE-4495-B398-700D66D03D74"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Travel/Utils/Networking.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "getTravelSuggestions(origin:destination:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "15422703-04AE-4495-B398-700D66D03D74 - 2d726f4ab685e0fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Travel.ChatGPT.getTravelSuggestions(origin: Swift.String, destination: Swift.String) async throws -&gt; Swift.String"
+                  moduleName = "Travel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rotemnevgauker/development/swiftui_projects/Travel/Travel/Utils/Networking.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66">
+               </Location>
+               <Location
+                  uuid = "15422703-04AE-4495-B398-700D66D03D74 - 2d726f4ab685e0fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Travel.ChatGPT.getTravelSuggestions(origin: Swift.String, destination: Swift.String) async throws -&gt; Swift.String"
+                  moduleName = "Travel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rotemnevgauker/development/swiftui_projects/Travel/Travel/Utils/Networking.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66">
+               </Location>
+               <Location
+                  uuid = "15422703-04AE-4495-B398-700D66D03D74 - 2d726f4ab685fe80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Travel.ChatGPT.getTravelSuggestions(origin: Swift.String, destination: Swift.String) async throws -&gt; Swift.String"
+                  moduleName = "Travel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rotemnevgauker/development/swiftui_projects/Travel/Travel/Utils/Networking.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF5DC054-7222-49D8-919A-80B89D955365"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Travel/Utils/Networking.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "getTravelSuggestions(origin:destination:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CF5DC054-7222-49D8-919A-80B89D955365 - 2d726f4ab685ff5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Travel.ChatGPT.getTravelSuggestions(origin: Swift.String, destination: Swift.String) async throws -&gt; Swift.String"
+                  moduleName = "Travel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rotemnevgauker/development/swiftui_projects/Travel/Travel/Utils/Networking.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69">
+               </Location>
+               <Location
+                  uuid = "CF5DC054-7222-49D8-919A-80B89D955365 - 2d726f4ab685ff3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Travel.ChatGPT.getTravelSuggestions(origin: Swift.String, destination: Swift.String) async throws -&gt; Swift.String"
+                  moduleName = "Travel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rotemnevgauker/development/swiftui_projects/Travel/Travel/Utils/Networking.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68">
+               </Location>
+               <Location
+                  uuid = "CF5DC054-7222-49D8-919A-80B89D955365 - 2d726f4ab685fec2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Travel.ChatGPT.getTravelSuggestions(origin: Swift.String, destination: Swift.String) async throws -&gt; Swift.String"
+                  moduleName = "Travel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rotemnevgauker/development/swiftui_projects/Travel/Travel/Utils/Networking.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D05D9C5D-CEA5-4EED-9E89-3EDCBA10D9FA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Travel/Domain/Usecases/SeatchFlights.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "seachFlights(orgin:layover:destination:date:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D05D9C5D-CEA5-4EED-9E89-3EDCBA10D9FA - 5fac5021ae44dcb7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Travel.SeachFlightsImpl.seachFlights(orgin: Travel.AutocompleteResult, layover: Travel.AutocompleteResult, destination: Travel.AutocompleteResult, date: Foundation.Date) async -&gt; Swift.Optional&lt;Swift.Array&lt;Travel.Flight&gt;&gt;"
+                  moduleName = "Travel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rotemnevgauker/development/swiftui_projects/Travel/Travel/Domain/Usecases/SeatchFlights.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18">
+               </Location>
+               <Location
+                  uuid = "D05D9C5D-CEA5-4EED-9E89-3EDCBA10D9FA - 483294a24bd4c7fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Travel.SeachFlightsImpl.seachFlights(orgin: Travel.AutocompleteResult, layover: Travel.AutocompleteResult, destination: Travel.AutocompleteResult, date: Foundation.Date) async -&gt; Swift.Optional&lt;Swift.Array&lt;Travel.Flight&gt;&gt;"
+                  moduleName = "Travel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rotemnevgauker/development/swiftui_projects/Travel/Travel/Domain/Usecases/SeatchFlights.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18">
+               </Location>
+               <Location
+                  uuid = "D05D9C5D-CEA5-4EED-9E89-3EDCBA10D9FA - 934d1b0cd431b75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Travel.SeachFlightsImpl.seachFlights(orgin: Travel.AutocompleteResult, layover: Travel.AutocompleteResult, destination: Travel.AutocompleteResult, date: Foundation.Date) async -&gt; Swift.Optional&lt;Swift.Array&lt;Travel.Flight&gt;&gt;"
+                  moduleName = "Travel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rotemnevgauker/development/swiftui_projects/Travel/Travel/Domain/Usecases/SeatchFlights.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
